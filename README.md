@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai"/>
   <img src="https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 ---
@@ -72,9 +73,10 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://euocas.46graus.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
-  <a href="https://github.com/euocas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/euocas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.behance.net/euocas">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+</a>  <a href="https://github.com/euocas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/euocas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="https://instagram.com/archivescastro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
 </p>
 
