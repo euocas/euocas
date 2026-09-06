@@ -84,7 +84,7 @@
 
 ## 🎓 Education
 
-📚 Técnico em Informática para Internet (em andamento)  
+📚 Técnico em Informática para Internet — Senac (em andamento)  
 📚 Front-End Developer — DIO (em andamento)  
 ⚙️ Back-End Development — Senac 
 🎨 Comunicação Visual — Senac  
