@@ -84,8 +84,9 @@
 
 ## 🎓 Education
 
-📚 Back-End Development — Senac (em andamento)  
+📚 Técnico em Informática para Internet (em andamento)  
 📚 Front-End Developer — DIO (em andamento)  
+⚙️ Back-End Development — Senac 
 🎨 Comunicação Visual — Senac  
 📸 Fotografia Profissional — Senac  
 
