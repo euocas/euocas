@@ -86,7 +86,7 @@
 
 📚 Técnico em Informática para Internet — Senac (em andamento)  
 📚 Front-End Developer — DIO (em andamento)  
-⚙️ Back-End Development — Senac 
+⚙️ Back-End Development — Senac
 🎨 Comunicação Visual — Senac  
 📸 Fotografia Profissional — Senac  
 
